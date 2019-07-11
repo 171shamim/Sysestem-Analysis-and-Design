@@ -15,7 +15,7 @@ Contains Documents of System Analysis & Design Laboratory.
 #### [Assignment-1]
 3.1 [Generalization & Association Code]
 
-3.2 [Re-drawn Class diagram]
+3.2 [Re-drawn Class diagram](https://github.com/171shamim/Sysestem-Analysis-and-Design/blob/master/Lab%20Assignment%201/Association.png)
 3.3 [Report]
 
 
